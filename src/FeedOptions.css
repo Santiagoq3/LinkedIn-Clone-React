@@ -1,0 +1,17 @@
+.feed__options{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15px;
+}
+.options{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: grey;
+    cursor: pointer;
+   
+}
+
+.options:hover{
+    color: black;
+}
